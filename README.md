@@ -7,13 +7,6 @@
 ![Swiper JS](https://img.shields.io/badge/swiper%20js-4287F5?style=for-the-badge&logo=swiper&logoColor=white)&nbsp;
 ![tsParticles](https://img.shields.io/badge/tsParticles-262852?style=for-the-badge&logo=particlejs&logoColor=white)&nbsp;
 
-
-### Link
-
-- [Codepen](https://codepen.io/ecemgo/pen/ZEPYNXJ)
-- [YouTube](https://youtu.be/h2Ek73E5nBE) 
-
-
 ### Intro
 
 
@@ -25,9 +18,3 @@ https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/7290f479-164
 - [Swiper JS](https://swiperjs.com/demos#default) - for the slider
 - [tsParticles](https://particles.js.org/) - for the animated background
 
-### Contact Me
-
-- Github - [@ecemgo](https://github.com/ecemgo)
-- Twitter - [@ecemgo](https://twitter.com/ecemgo)
-- CodePen - [@ecemgo](https://codepen.io/ecemgo)
-- YouTube - [@ecemgokdogan](https://www.youtube.com/channel/UCktkPv17cw27PaFGcnZa_aQ)
